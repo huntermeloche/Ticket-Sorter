@@ -1,0 +1,11 @@
+﻿Ticket Nbr,Ticket Code,No. of Day,Price,Ticket Type,Create Date
+1,A001,1,150,Adult,2/10/2020
+2,A002,2,200,Child,1/4/2020
+3,B003,3,350,Adult,12/30/2019
+4,B005,1,150,Child,2/12/2019
+5,C007,2,300,Adult,2/14/2020
+6,C005,1,150,Child,1/4/2020
+7,D100,7,500,Adult,11/23/2019
+8,D456,365,1100,Adult,3/3/2019
+9,F567,1,150,Child,2/14/2020
+10,G009,2,200,Adult,1/4/2020
